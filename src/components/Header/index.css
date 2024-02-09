@@ -1,0 +1,5 @@
+/* Write your CSS code here */
+.first_part {
+  display: flex;
+  flex-direction: row;
+}
